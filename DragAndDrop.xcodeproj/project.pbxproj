@@ -14,6 +14,7 @@
 		1727CA01202B7A9D00DC07C0 /* EmojiArtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1727CA00202B7A9D00DC07C0 /* EmojiArtViewController.swift */; };
 		1727CA03202B7BBC00DC07C0 /* EmojiArtView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1727CA02202B7BBC00DC07C0 /* EmojiArtView.swift */; };
 		17901858202C9F5300ED84FA /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17901857202C9F5300ED84FA /* Utilities.swift */; };
+		1790185A202D180E00ED84FA /* EmojiArtDocumentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17901859202D180E00ED84FA /* EmojiArtDocumentTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1727CA00202B7A9D00DC07C0 /* EmojiArtViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtViewController.swift; sourceTree = "<group>"; };
 		1727CA02202B7BBC00DC07C0 /* EmojiArtView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtView.swift; sourceTree = "<group>"; };
 		17901857202C9F5300ED84FA /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		17901859202D180E00ED84FA /* EmojiArtDocumentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtDocumentTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				1727C9EF202B6A2800DC07C0 /* Main.storyboard */,
+				17901859202D180E00ED84FA /* EmojiArtDocumentTableViewController.swift */,
 				1727CA02202B7BBC00DC07C0 /* EmojiArtView.swift */,
 				1727CA00202B7A9D00DC07C0 /* EmojiArtViewController.swift */,
 				17901857202C9F5300ED84FA /* Utilities.swift */,
@@ -153,6 +156,7 @@
 				1727C9EC202B6A2800DC07C0 /* AppDelegate.swift in Sources */,
 				1727CA01202B7A9D00DC07C0 /* EmojiArtViewController.swift in Sources */,
 				17901858202C9F5300ED84FA /* Utilities.swift in Sources */,
+				1790185A202D180E00ED84FA /* EmojiArtDocumentTableViewController.swift in Sources */,
 				1727CA03202B7BBC00DC07C0 /* EmojiArtView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
